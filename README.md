@@ -58,7 +58,9 @@ To spin up the agentic workspace on your local machine:
 
 4. streamlit run app.py   
 
+
+
+
 👨‍💻 About the Developer
 Built by Vinesh J. Aspiring AI & Machine Learning Engineer
-
 Passionate about end-to-end AI development, model architecture, and building systems that bridge the gap between complex machine learning concepts and highly functional, real-world applications.
