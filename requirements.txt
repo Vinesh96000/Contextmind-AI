@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+python-dotenv
+faiss-cpu
+tiktoken
+pypdf
+cryptography
+youtube-transcript-api
+langgraph
